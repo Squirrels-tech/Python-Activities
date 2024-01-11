@@ -1,2 +1,4 @@
-# Python-Activities
-Shot python practice problems
+# Python Activities
+## Short python practice problems
+
+
